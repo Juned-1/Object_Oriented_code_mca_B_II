@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651467203 source:c:\users\sis\documents\teaching\autumn 2021\co 211 dsoop\basicuserdefinedconversion\main.cpp
+	<iostream>
+	"MeterClass.h"
+
+1651467306 c:\users\sis\documents\teaching\autumn 2021\co 211 dsoop\basicuserdefinedconversion\meterclass.h
+	<iostream>
+
